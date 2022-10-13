@@ -34,3 +34,10 @@
 .links-cnt {
   margin: 10px;
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
